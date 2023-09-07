@@ -1,5 +1,6 @@
-### Hi there 👋
-
+- Hello viewer, my name is Fernando Garcia 👋
+- I am currently a senior at San Diego State University for a bachelor's in Computer Engineering. 🎓
+- I really like the software aspects of what I'm studying and I'm hoping to add projects to my profile soon. 💻
 <!--
 **f3rny05/f3rny05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
